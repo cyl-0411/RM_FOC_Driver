@@ -96,7 +96,7 @@
         "unconnected_items": "error",
         "unresolved_variable": "error",
         "via_dangling": "ignore",
-        "zone_has_empty_net": "error",
+        "zone_has_empty_net": "ignore",
         "zones_intersect": "ignore"
       },
       "rules": {
@@ -121,6 +121,7 @@
       "track_widths": [
         0.0,
         0.1778,
+        0.254,
         0.381,
         0.508
       ],
