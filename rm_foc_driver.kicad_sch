@@ -1387,7 +1387,6 @@
     )
   )
 
-
   (junction (at 265.43 359.41) (diameter 0) (color 0 0 0 0)
     (uuid 00d6e047-bd6a-4b5e-8f0b-89aff8321a71)
   )
@@ -1576,7 +1575,7 @@
   (no_connect (at 258.445 351.79) (uuid aed1aa0f-b8bc-4dcb-ab34-80af4281337f))
   (no_connect (at 258.572 355.6) (uuid c6f39261-89b3-41fe-a526-b319cd7d0b4a))
   (no_connect (at 78.105 337.185) (uuid f0dd02c1-8c15-4270-9506-247369377fee))
-  (no_connect (at 78.105 339.725) (uuid f0dd02c1-8c15-4270-9506-247369377fee))
+  (no_connect (at 78.105 339.725) (uuid f0dd02c1-8c15-4270-9506-247369377fef))
 
   (wire (pts (xy 388.62 263.779) (xy 402.59 263.779))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -5070,7 +5069,7 @@
     (property "Reference" "R17" (id 0) (at 57.15 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "190k" (id 1) (at 54.61 133.35 0)
+    (property "Value" "75k" (id 1) (at 54.61 133.35 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 59.182 132.08 90)
@@ -6314,7 +6313,7 @@
       (reference "R16") (unit 1) (value "20R") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/b9698de5-21a4-4bea-8f42-d108c2a3a546"
-      (reference "R17") (unit 1) (value "190k") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R17") (unit 1) (value "75k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/70b14ddb-ab68-49ec-87c1-af3e97ca389f"
       (reference "R18") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
